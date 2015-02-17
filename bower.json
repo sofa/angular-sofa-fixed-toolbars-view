@@ -1,0 +1,18 @@
+{
+    "name": "angular-sofa-fixed-toolbars-view",
+    "version": "0.1.0",
+    "homepage": "http://www.sofa.io",
+    "authors": [
+        "Pascal Precht <pascal@couchcommerce.com>"
+    ],
+    "description": "Sofa Web SDK Angular Fixed Toolbars View component",
+    "main": "dist/sofaFixedToolbarsView.js",
+    "keywords": [
+        "sofa",
+        "sofa.io",
+        "web",
+        "sdk",
+        "directive"
+    ],
+    "license": "GPL"
+}

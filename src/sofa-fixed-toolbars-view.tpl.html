@@ -1,0 +1,11 @@
+<div class="sofa-docking-vertical">
+    <div ng-show="header && header.length > 0" ng-include="header" class="sofa-toolbar">
+    </div>
+
+    <div class="sofa-body">
+        <div class="sofa-expand sofa-scrollable-vertical" sofa-scrolling-shadow ng-transclude>
+        </div>
+    </div>
+    <div ng-show="footer && footer.length > 0" ng-include="footer" class="sofa-footer">
+    </div>
+</div>
